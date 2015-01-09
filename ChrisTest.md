@@ -6,6 +6,10 @@ I have no idea what this section data is all about!
 
 W00T!
 
+|-----------------|-----------------|
+| Is this better? | I do hope it is |
+| Blah            | Blah            |
+
 |------|---------------|--------------------|
 | Test | Desc          | Outcome            |
 | 1    | Do stuff      | Stuff happens      |
