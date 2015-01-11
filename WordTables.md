@@ -1,6 +1,6 @@
 # Intro
 
-Get the word mice in here so that it detects!
+Get the word mice in here so that it detects.
 
 # Some test tables
 
