@@ -26,7 +26,7 @@ All animal experiments conformed to the British Home Office Regulations (Animal 
 
 # Study design:
 
-Three groups of 20 mice each were studied: A. Wild type fed AIN 93 G diet; B. Wild type fed AIN 93 G diet supplemented with 0.1% quinine HCl; C. Wild type fed AIN 93 G diet supplemented with 0.01% quinine HCl. (Cettour-Rose et al., 2013).
+Three groups of 20 mice each were studied. A. Wild type fed AIN 93 G diet; B. Wild type fed AIN 93 G diet supplemented with 0.1% quinine HCl; C. Wild type fed AIN 93 G diet supplemented with 0.01% quinine HCl. (Cettour-Rose et al., 2013).
 
 In experiments for mechanical hypersensitivity development and pharmacological studies, animals were randomized into treatment groups by picking numbers out of a hat. In experiments for thigmotaxis and burrowing, random cage assignment to treatments or TNT/sham surgeries were applied by picking numbers out of a hat. (Huang et al., 2013).
 
