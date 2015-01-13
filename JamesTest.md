@@ -1,6 +1,6 @@
 Thoracic cage plasticity in prepubertal New Zealand white rabbits submitted to T1-T12 dorsal arthrodesis: computed tomography evaluation, echocardiographic assessment and cario-pulmonary measurements.
 
-***Abstract***
+# **Abstract**
 
 BACKGROUND AND PURPOSE: Asthma is an inflammatory disease that involves airway hyperresponsiveness and remodelling. Flavonoids have been associated to anti-inflammatory and antioxidant activities and may represent a potential therapeutic treatment of asthma. Our aim was to evaluate the effects of the sakuranetin treatment in several aspects of experimental asthma model in mice.
 
@@ -12,25 +12,33 @@ CONCLUSIONS AND IMPLICATIONS: These results highlighted the importance of counte
 
 *INTRODUCTION *
 
-**Background:** The increasing prevalence of type 2 diabetes is cause for concern, and has spurred efforts to identify novel peptides with valuable properties for diabetes treatment [1]. Type 2 diabetes is characterized by both resistance of target tissues to the actions of insulin and impaired β-cell function [2], [3]. Studies in genetically modified mice have suggested that defects in insulin/IGF signaling in the β-cell contribute to β- cell failure [4], thereby establishing a causal link between insulin resistance and impaired β-cell function. One attractive scenario is that insulin and IGFs exert their effects through a common effector, acting on DNA transcription in β-cells [5]. Forkhead box (Fox)-containing transcription factors of the O sub-class (FoxO) are prominent transcriptional effectors of insulin and IGF signaling in β-cells [6]. FoxO1 inhibits β-cell proliferation in insulin-resistant states [7] as well as in response to growth factors [8], protects β-cells against hyperglycemia-induced oxidative stress [9], and controls energy metabolism in β-cells [10]. In view of the role of FoxO1 in β-cell compensation to insulin resistance [11], we reasoned that investigation of FoxO1 target genes could reveal mechanisms underlying β-cell failure in the context of insulin resistance. To this end, we carried out gene profiling analyses in INS832/13 cells [10]. Our genomic analysis led to the identification of nephroblastoma overexpressed gene (Nov, also known as Ccn3) as a novel FoxO1 target. The role of Ccn3 in β-cells has never been explored. (Paradis et al., 2013)
+# **Background: **
+
+The increasing prevalence of type 2 diabetes is cause for concern, and has spurred efforts to identify novel peptides with valuable properties for diabetes treatment [1]. Type 2 diabetes is characterized by both resistance of target tissues to the actions of insulin and impaired β-cell function [2], [3]. Studies in genetically modified mice have suggested that defects in insulin/IGF signaling in the β-cell contribute to β- cell failure [4], thereby establishing a causal link between insulin resistance and impaired β-cell function. One attractive scenario is that insulin and IGFs exert their effects through a common effector, acting on DNA transcription in β-cells [5]. Forkhead box (Fox)-containing transcription factors of the O sub-class (FoxO) are prominent transcriptional effectors of insulin and IGF signaling in β-cells [6]. FoxO1 inhibits β-cell proliferation in insulin-resistant states [7] as well as in response to growth factors [8], protects β-cells against hyperglycemia-induced oxidative stress [9], and controls energy metabolism in β-cells [10]. In view of the role of FoxO1 in β-cell compensation to insulin resistance [11], we reasoned that investigation of FoxO1 target genes could reveal mechanisms underlying β-cell failure in the context of insulin resistance. To this end, we carried out gene profiling analyses in INS832/13 cells [10]. Our genomic analysis led to the identification of nephroblastoma overexpressed gene (Nov, also known as Ccn3) as a novel FoxO1 target. The role of Ccn3 in β-cells has never been explored. (Paradis et al., 2013)
 
 For this purpose, we selected a pilocarpine model of epilepsy that is characterized by robust, frequent spontaneous seizures acquired after a brain insult [15, 16, 17, 18] well-described behavioral abnormalities [18] and poor responses to antiepileptic drugs [19]. These animals recapitulate several key features of human temporal lobe epilepsy, the most common type of epilepsy in adults [1, 2]. (Hunt et al., 2013)
 
-**Objectives:** Therefore, the objectives of this study were to determine whether URB597, a selective inhibitor of FAAH, increases retinal ganglion cell (RGC) survival in an axotomy model of optic nerve injury, and to determine the contribution of CB1 and CB2 to the survival-promoting effects of URB597 in the retina. (Slusar et al., 2013)
+# **Objectives: **
+
+Therefore, the objectives of this study were to determine whether URB597, a selective inhibitor of FAAH, increases retinal ganglion cell (RGC) survival in an axotomy model of optic nerve injury, and to determine the contribution of CB1 and CB2 to the survival-promoting effects of URB597 in the retina. (Slusar et al., 2013)
 
 *METHODS *
 
-**Ethical statement:** All animal experiments conformed to the British Home Office Regulations (Animal Scientific Procedures Act 1986; Project License PPL70/7162 to Prof Andrew Rice) and International Association for the Study of Pain guidelines [90] for the care and use of animals. (Huang et al., 2013).
+# **Ethical statement: **
 
-**Study design:** Three groups of 20 mice each were studied: A. Wild type fed AIN 93 G diet; B. Wild type fed AIN 93 G diet supplemented with 0.1% quinine HCl; C. Wild type fed AIN 93 G diet supplemented with 0.01% quinine HCl. (Cettour-Rose et al., 2013).
+All animal experiments conformed to the British Home Office Regulations (Animal Scientific Procedures Act 1986; Project License PPL70/7162 to Prof Andrew Rice) and International Association for the Study of Pain guidelines [90] for the care and use of animals. (Huang et al., 2013).
+
+# **Study design: **
+
+Three groups of 20 mice each were studied: A. Wild type fed AIN 93 G diet; B. Wild type fed AIN 93 G diet supplemented with 0.1% quinine HCl; C. Wild type fed AIN 93 G diet supplemented with 0.01% quinine HCl. (Cettour-Rose et al., 2013).
 
 In experiments for mechanical hypersensitivity development and pharmacological studies, animals were randomized into treatment groups by picking numbers out of a hat. In experiments for thigmotaxis and burrowing, random cage assignment to treatments or TNT/sham surgeries were applied by picking numbers out of a hat. (Huang et al., 2013).
 
 The experimental unit (e.g. a single animal, group or cage of animals). In the study, n refers to number of animals, with five acquisitions from each slice, with a maximum of three slices obtained from each experimental animal used for each protocol (six animals each group). (Grasselli et al., 2013).
 
-**Figure 1.** Experimental timelines. (A) Chronically catheterized mice (femoral artery and vein) were given three days to recover from surgery and infused intravenously (iv) with either saline or glucose for 24 hours prior to intra-arterial administration of either lipopolysaccharide (LPS; 1 mg/kg) or vehicle. Five hours after LPS or vehicle administration a frequently sampled intravenous glucose tolerance test (FSIVGTT) was performed over a two hour period. An iv glucose bolus of 1 g/kg D50 was given over approximately 15 sec. Subsequently, multiple samples of either blood glucose and plasma insulin or glucose alone were taken from the arterial catheter at the times identified. (Watanabe et al., 2012).
+# Experimental procedures: 
 
-**Experimental procedures:** All rats were chronically implanted with epidural silverball electrodes under inhalation anesthesia (isoflurane 2–3% mixed with 30% oxygen (O2) and 70% nitrous oxide (N2O)). Prior to surgery, rats were given an i.p. injection of 5 mg/kg Carprophen (Rimadyl) as analgetic. (Jung et al., 2013) .
+All rats were chronically implanted with epidural silverball electrodes under inhalation anesthesia (isoflurane 2–3% mixed with 30% oxygen (O2) and 70% nitrous oxide (N2O)). Prior to surgery, rats were given an i.p. injection of 5 mg/kg Carprophen (Rimadyl) as analgetic. (Jung et al., 2013) .
 
 Except the burrowing assay, which was conducted from the beginning of the dark cycle, all other behavioural experiments were conducted in the light phase. (Huang et al., 2013).
 
@@ -38,7 +46,9 @@ The animals were tested in a square shaped apparatus which comprised of an E-sha
 
 The subcutaneous (s.c.) route may be used for agents to prolong duration of action, the intravenous route (i.v.) avoids issues of first pass metabolism (number of doses restricted due to potential damage to veins), the intraperitoneal (i.p.) route using 27-30g needles when repeated injections are required, or by oral (p.o.) gavage in volumes of less than 5ml/kg. (Al-Izki et al., 2012).
 
-**Experimental animals:** Male C57BL/6J mice (25.3 ± 1.4 g), aged 8–12 weeks, were included (n = 40). (Van Dijk et al., 2013). Twenty-two male Sprague–Dawley rats (Rattus norvegicus; Harlan Laboratories, Indianapolis, IN, USA) were obtained and acclimatized for at least 48 h. Vendor health reports indicated that the rats were free of known viral, bacterial and parasitic pathogens. (Katayama et al., 2013).
+# Experimental animals: 
+
+Male C57BL/6J mice (25.3 ± 1.4 g), aged 8–12 weeks, were included (n = 40). (Van Dijk et al., 2013). Twenty-two male Sprague–Dawley rats (Rattus norvegicus; Harlan Laboratories, Indianapolis, IN, USA) were obtained and acclimatized for at least 48 h. Vendor health reports indicated that the rats were free of known viral, bacterial and parasitic pathogens. (Katayama et al., 2013).
 
 Housing and husbandry: Animals were housed with an inverse 12 hours day-night cycle with lights on at 8:30pm in a temperature (22±1ºC) and humidity (55±5%) controlled room. Prior to surgery the animals were housed pairwise in type 4 cages filled with Lignocel® (hygiene animal bedding) enriched with next boxes and horizontal tubes for climbing. (Jung et al., 2013).
 
@@ -46,7 +56,9 @@ All mice were allowed free access to water and a maintenance diet containing 0.7
 
 During the postoperative period, pain was relieved by a subcutaneous administration of carprofen (Rimadyl, Pfizer Animal Health, West Dundee, Great Britain; 5 mg/kg twice daily for 5 days). An intramuscular injection of enrofloxacin (Baytril\_ 5 %, Bayer Animal Health, Kiel, Germany; 5 mg/kg twice daily) was administered for the prevention of infection during the week following surgery. (Canavese et al., 2013).
 
-**Sample size:** Twenty eight healthy rats were divided into four groups of seven each. Animals of group I received distilled water (0.1 ml/day) and served as control, whereas group II animals received only ISO at 100 mg/kg. Animals of group III and IV were treated with test alkaloid at pre-standardized dose of 40 mg/kg (p.o.) daily for 7 days. (Panda et al., 2013).
+# Sample size: 
+
+Twenty eight healthy rats were divided into four groups of seven each. Animals of group I received distilled water (0.1 ml/day) and served as control, whereas group II animals received only ISO at 100 mg/kg. Animals of group III and IV were treated with test alkaloid at pre-standardized dose of 40 mg/kg (p.o.) daily for 7 days. (Panda et al., 2013).
 
 Sample size calculations were performed in STATA/IC 10 (StataCorp,College Station, Texas, USA) with the sampsi function. Stratified meta-analysis of hypothermia treatment in SHRs (10) reported a normalized mean effect size of 49% [standard deviation (SD) = 28%]. To reject the null hypothesis that pethidine does not attenuate this effect, we predicted a normalized mean effect size of hypothermia in the presence of pethidine of 29%. To achieve power = 0·8 and alpha = 0·05 to detect this difference would require a total of 60 animals. (Sena et al., 2013). The experiment was repeated, and data were pooled. (Grasselli et al., 2013).
 
