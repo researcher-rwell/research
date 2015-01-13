@@ -68,38 +68,56 @@ For experiments using animals without surgery, rats were ranked in ascending ord
 
 For the thigmotaxis experiment, sequences of A–B–C then C–B–A (letters assigned to mask the cage labels during testing) were used to select animals. (Huang et al., 2013).
 
-**Experimental outcomes:** Two primary outcome measures were analyzed: overall performance on the MWM (days 12- 16) and the numbers of surviving CA2-3 cells. In addition, three secondary outcome measures were evaluated: terminal performance in the MWM (days 15-16), rate of learning the MWM (slope of days 12-14), and MWM probe trial. (Wang et al., 2013).
+# Experimental outcomes: 
 
-**Statistical methods:** Kaplan–Meier survival analysis was performed and student t-test for normally distributed data (i.e., body weight, ABGA results, blood pressure, heart rate, body temperature, asphyxia time, CPR duration, and lactate) or Mann–Whitney U tests for non-normally distributed data (i.e., western blot results and immunohistochemistry results) were performed to compare the differences of baseline characteristics, and expressions of cleaved caspase-3 and acetylated histone H3. For NDS, repeated measures analysis of variance test and Bonferroni posthoc test was performed. (Hyuk et al., 2013)
+Two primary outcome measures were analyzed: overall performance on the MWM (days 12- 16) and the numbers of surviving CA2-3 cells. In addition, three secondary outcome measures were evaluated: terminal performance in the MWM (days 15-16), rate of learning the MWM (slope of days 12-14), and MWM probe trial. (Wang et al., 2013).
+
+# Statistical methods: 
+
+Kaplan–Meier survival analysis was performed and student t-test for normally distributed data (i.e., body weight, ABGA results, blood pressure, heart rate, body temperature, asphyxia time, CPR duration, and lactate) or Mann–Whitney U tests for non-normally distributed data (i.e., western blot results and immunohistochemistry results) were performed to compare the differences of baseline characteristics, and expressions of cleaved caspase-3 and acetylated histone H3. For NDS, repeated measures analysis of variance test and Bonferroni posthoc test was performed. (Hyuk et al., 2013)
 
 For each test, the experimental unit was an individual animal. (Podrini et al., 2013) Test for normality was performed by Kolmogorov–Smirnov test. (Hyuk et al., 2013).
 
 *RESULTS *
 
-**Baseline data:** The animals’ health status was monitored throughout the experiments by a health surveillance programme according to Federation of European Laboratory Animal Science Associations (FELASA) guidelines. The mice were free of all viral, bacterial, and parasitic pathogens listed in the FELASA recommendations, except for Helicobacter species. (Jirkof et al., 2013).
+# Baseline data: 
 
-**Numbers analysed:** Sixteen MPV-positive samples were from the group of young adults, with a positive rate of 13.9% (16/115), and the other four positive samples were detected in the middle-aged adult group, with a positive rate of 11.4% (4/35) (Table 1). (Wang et al., 2013).
+The animals’ health status was monitored throughout the experiments by a health surveillance programme according to Federation of European Laboratory Animal Science Associations (FELASA) guidelines. The mice were free of all viral, bacterial, and parasitic pathogens listed in the FELASA recommendations, except for Helicobacter species. (Jirkof et al., 2013).
+
+# Numbers analysed: 
+
+Sixteen MPV-positive samples were from the group of young adults, with a positive rate of 13.9% (16/115), and the other four positive samples were detected in the middle-aged adult group, with a positive rate of 11.4% (4/35) (Table 1). (Wang et al., 2013).
 
 Thirty-eight rats were utilized for this study and 30 were included and completed. Eight animals were excluded, including 5 rats which were not resuscitated (persistent VF during ECLS) and another 3 rats were excluded because of instrumentation or technical failure during animal preparation. (Rungatscher et al., 2013).
 
-**Outcomes and estimation:** In accordance with the ARRIVE guidelines (Kilkenny et al. 2010), we have reported measures of precision, confidence, and n to provide an indication of significance.
+# Outcomes and estimation: 
+
+In accordance with the ARRIVE guidelines (Kilkenny et al. 2010), we have reported measures of precision, confidence, and n to provide an indication of significance.
 
 Cages of mice were randomly assigned to each of the five groups (n = 30 per group).
 
 Fig. 2 Comparison of body weight of C57BL/6NTac male mice following varying durations of exposure to HFD. a Percentage body weight gain from 4 to 16 weeks of age relative to the starting body weight at 4 weeks of age which ranged from 12.2 to 20.3 g (mean = 16.9 g). Data are presented as mean percentage weight gain ± SEM. (Podrini et al., 2013).
 
-**Adverse events:** In four surviving animals, lower extremity ulcers developed but were effectively treated with local standard triple antibiotic ointment (bacitracin, neomycin, and Polymyxin B) and cohesive bandages. (Van Gorp et al., 2013).
+# Adverse events: 
+
+In four surviving animals, lower extremity ulcers developed but were effectively treated with local standard triple antibiotic ointment (bacitracin, neomycin, and Polymyxin B) and cohesive bandages. (Van Gorp et al., 2013).
 
 As mortality with multiple surgeries was significantly higher in aged animals than young animals, aged animals only underwent a single surgery in which RGCs were labelled either from the SC (aged control nonaxotomized animals) or from the optic nerve stump at the time of axotomy. (Slusar et al., 2013).
 
 *DISCUSSION*
 
-**Interpretation/ scientific implications:** The aim of our study was to verify if the pharmacological manipulation of the endocannabinoid system could be effective in the modulation of abnormal eating behaviour developed by female rats in a confirmed rat model of BED, in which binge eating behaviour is induced in animals by giving them a sporadic (3 days week-1) and limited (2 h) access to a high-fat diet (margarine) in addition to a continuous access to chow and water (HR group). In these animals, the intake of margarine becomes significantly greater than those of animals with limited daily access to margarine (LR group), and remains stable over prolonged periods of time (Corwin and Buda-Levin, 2004; Corwin and Wojnicki, 2006).In our study, the effect of rimonabant on the bingeing group could be related to its capacity to block dopamine release in the nucleus accumbens shell that might be induced by the consumption of margarine, and by a possible enhancement in the tone of the endocannabinoid system. Chronic exposure to high-fat palatable diet was found to decrease the expression of CB1 receptors in the nucleus accumbens (Harrold et al., 2002). Accordingly, Bello et al. (2012) reported a reduction in CB1 receptor density in the same central area in an animal model of BED. (Scherma et al., 2013).
+# Interpretation/scientific implications: 
+
+The aim of our study was to verify if the pharmacological manipulation of the endocannabinoid system could be effective in the modulation of abnormal eating behaviour developed by female rats in a confirmed rat model of BED, in which binge eating behaviour is induced in animals by giving them a sporadic (3 days week-1) and limited (2 h) access to a high-fat diet (margarine) in addition to a continuous access to chow and water (HR group). In these animals, the intake of margarine becomes significantly greater than those of animals with limited daily access to margarine (LR group), and remains stable over prolonged periods of time (Corwin and Buda-Levin, 2004; Corwin and Wojnicki, 2006).In our study, the effect of rimonabant on the bingeing group could be related to its capacity to block dopamine release in the nucleus accumbens shell that might be induced by the consumption of margarine, and by a possible enhancement in the tone of the endocannabinoid system. Chronic exposure to high-fat palatable diet was found to decrease the expression of CB1 receptors in the nucleus accumbens (Harrold et al., 2002). Accordingly, Bello et al. (2012) reported a reduction in CB1 receptor density in the same central area in an animal model of BED. (Scherma et al., 2013).
 
 A limitation of this study is the fact that the estrous cycle stage of the female rats was not determined, since the stage of the estrus cycle at the time of tissue collection could potentially have affected gene expression levels. (Ong et al., 2013).
 
 The new apparatus shows potential for considerably reducing the number of animals used in memory tasks designed to detect potential amnesic properties of new drugs ….. approximately 43,000 animals have been used in these tasks in the past 5 years but with the application of the continual trials apparatus we estimate that this could have been reduce to 26,000. (Ameen-Ali et al., 2013).
 
-**Generalisability/Translation:** Establishing anesthesia-independent settings for probing rodent analogues to the human MMN are important for facilitating the detection of therapeutic targets at the cellular level. Knowledge of these targets is likely to help guiding the development of drugs for treating the disorders that have been shown to be accompanied with reduced MMN responses, such as schizophrenia. (Jung et al., 2013).
+# Generalisability/Translation: 
 
-**Funding:** The research leading to these results is part of the Europain Collaboration, which has received support from the Innovative Medicines Initiative Joint Undertaking, under Grant agreement 115007, resources of which are composed of financial contribution from the European Union’s Seventh Framework Program (FP7/2007-2013) and EFPIA companies’ in-kind contribution. We thank Pfizer Ltd for providing d4T and gabapentin.
+Establishing anesthesia-independent settings for probing rodent analogues to the human MMN are important for facilitating the detection of therapeutic targets at the cellular level. Knowledge of these targets is likely to help guiding the development of drugs for treating the disorders that have been shown to be accompanied with reduced MMN responses, such as schizophrenia. (Jung et al., 2013).
+
+# Funding: 
+
+The research leading to these results is part of the Europain Collaboration, which has received support from the Innovative Medicines Initiative Joint Undertaking, under Grant agreement 115007, resources of which are composed of financial contribution from the European Union’s Seventh Framework Program (FP7/2007-2013) and EFPIA companies’ in-kind contribution. We thank Pfizer Ltd for providing d4T and gabapentin.
