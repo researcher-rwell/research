@@ -50,7 +50,9 @@ The subcutaneous (s.c.) route may be used for agents to prolong duration of acti
 
 Male C57BL/6J mice (25.3 ± 1.4 g), aged 8–12 weeks, were included (n = 40). (Van Dijk et al., 2013). Twenty-two male Sprague–Dawley rats (Rattus norvegicus; Harlan Laboratories, Indianapolis, IN, USA) were obtained and acclimatized for at least 48 h. Vendor health reports indicated that the rats were free of known viral, bacterial and parasitic pathogens. (Katayama et al., 2013).
 
-Housing and husbandry: Animals were housed with an inverse 12 hours day-night cycle with lights on at 8:30pm in a temperature (22±1ºC) and humidity (55±5%) controlled room. Prior to surgery the animals were housed pairwise in type 4 cages filled with Lignocel® (hygiene animal bedding) enriched with next boxes and horizontal tubes for climbing. (Jung et al., 2013).
+# Housing and husbandry: 
+
+Animals were housed with an inverse 12 hours day-night cycle with lights on at 8:30pm in a temperature (22±1ºC) and humidity (55±5%) controlled room. Prior to surgery the animals were housed pairwise in type 4 cages filled with Lignocel® (hygiene animal bedding) enriched with next boxes and horizontal tubes for climbing. (Jung et al., 2013).
 
 All mice were allowed free access to water and a maintenance diet containing 0.75% calcium (EURodentDiet 22%; PMI Nutrition Inter- national, LLC, Brentwood,MO, USA) in a 12-hour light/dark cycle, with room temperature at 21±2 °C. All cages contained wood shavings, bedding and a cardboard tube for environmental enrichment. (Meakin et al., 2013).
 
@@ -62,7 +64,7 @@ Twenty eight healthy rats were divided into four groups of seven each. Animals o
 
 Sample size calculations were performed in STATA/IC 10 (StataCorp,College Station, Texas, USA) with the sampsi function. Stratified meta-analysis of hypothermia treatment in SHRs (10) reported a normalized mean effect size of 49% [standard deviation (SD) = 28%]. To reject the null hypothesis that pethidine does not attenuate this effect, we predicted a normalized mean effect size of hypothermia in the presence of pethidine of 29%. To achieve power = 0·8 and alpha = 0·05 to detect this difference would require a total of 60 animals. (Sena et al., 2013). The experiment was repeated, and data were pooled. (Grasselli et al., 2013).
 
-#  Allocating animals to experimental groups:
+# Allocating animals to experimental groups:
 
 For experiments using animals without surgery, rats were ranked in ascending order according to pre-test levels of burrowing and allocated to treatment groups in order i.e. rat 1 group 1, rat 2 group 2, rat 3 group 3, rat 4 group 1, etc., thus ensuring the median of each group was similar prior to testing. (Andrews et al., 2011).
 
