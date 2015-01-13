@@ -92,7 +92,7 @@ Sixteen MPV-positive samples were from the group of young adults, with a positiv
 
 Thirty-eight rats were utilized for this study and 30 were included and completed. Eight animals were excluded, including 5 rats which were not resuscitated (persistent VF during ECLS) and another 3 rats were excluded because of instrumentation or technical failure during animal preparation. (Rungatscher et al., 2013).
 
-# Outcomes and estimation: 
+# Outcomes estimation: 
 
 In accordance with the ARRIVE guidelines (Kilkenny et al. 2010), we have reported measures of precision, confidence, and n to provide an indication of significance.
 
