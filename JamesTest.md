@@ -62,7 +62,7 @@ Twenty eight healthy rats were divided into four groups of seven each. Animals o
 
 Sample size calculations were performed in STATA/IC 10 (StataCorp,College Station, Texas, USA) with the sampsi function. Stratified meta-analysis of hypothermia treatment in SHRs (10) reported a normalized mean effect size of 49% [standard deviation (SD) = 28%]. To reject the null hypothesis that pethidine does not attenuate this effect, we predicted a normalized mean effect size of hypothermia in the presence of pethidine of 29%. To achieve power = 0·8 and alpha = 0·05 to detect this difference would require a total of 60 animals. (Sena et al., 2013). The experiment was repeated, and data were pooled. (Grasselli et al., 2013).
 
-#  Allocating animals to experimental groups: 
+Allocating animals to experimental groups:
 
 For experiments using animals without surgery, rats were ranked in ascending order according to pre-test levels of burrowing and allocated to treatment groups in order i.e. rat 1 group 1, rat 2 group 2, rat 3 group 3, rat 4 group 1, etc., thus ensuring the median of each group was similar prior to testing. (Andrews et al., 2011).
 
