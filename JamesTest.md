@@ -58,7 +58,7 @@ During the postoperative period, pain was relieved by a subcutaneous administrat
 
 Twenty eight healthy rats were divided into four groups of seven each. Animals of group I received distilled water (0.1 ml/day) and served as control, whereas group II animals received only ISO at 100 mg/kg. Animals of group III and IV were treated with test alkaloid at pre-standardized dose of 40 mg/kg (p.o.) daily for 7 days. (Panda et al., 2013).
 
-Sample size calculations were performed in STATA/IC 10 (StataCorp,College Station, Texas, USA) with the sampsi function. Stratified meta-analysis of hypothermia treatment in SHRs (10) reported a normalized mean effect size of 49% [standard deviation (SD) = 28%]. To reject the null hypothesis that pethidine does not attenuate this effect, we predicted a normalized mean effect size of hypothermia in the presence of pethidine of 29%. To achieve power = 0·8 and alpha = 0·05 to detect this difference would require a total of 60 animals. (Sena et al., 2013). The experiment was repeated, and data were pooled. (Grasselli et al., 2013).
+A sample size power calculation was performed in STATA/IC 10 (StataCorp,College Station, Texas, USA) with the sampsi function. Stratified meta-analysis of hypothermia treatment in SHRs (10) reported a normalized mean effect size of 49% [standard deviation (SD) = 28%]. To reject the null hypothesis that pethidine does not attenuate this effect, we predicted a normalized mean effect size of hypothermia in the presence of pethidine of 29%. To achieve power = 0·8 and alpha = 0·05 to detect this difference would require a total of 60 animals. (Sena et al., 2013). The experiment was repeated, and data were pooled. (Grasselli et al., 2013).
 
 # Allocating animals to experimental groups:
 
