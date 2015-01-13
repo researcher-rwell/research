@@ -1,4 +1,4 @@
-# Thoracic cage plasticity in prepubertal New Zealand white rabbits submitted to T1-T12 dorsal arthrodesis: computed tomography evaluation, echocardiographic assessment and cario-pulmonary measurements.
+# Thoracic cage plasticity in prepubertal New Zealand white rabbits submitted to T1-T12 dorsal arthrodesis, computed tomography evaluation, echocardiographic assessment and cario-pulmonary measurements.
 
 # Abstract
 
