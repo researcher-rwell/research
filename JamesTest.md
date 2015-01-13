@@ -76,8 +76,6 @@ Kaplan–Meier survival analysis was performed and student t-test for normally d
 
 For each test, the experimental unit was an individual animal. (Podrini et al., 2013) Test for normality was performed by Kolmogorov–Smirnov test. (Hyuk et al., 2013).
 
-*RESULTS *
-
 # Baseline data: 
 
 The animals’ health status was monitored throughout the experiments by a health surveillance programme according to Federation of European Laboratory Animal Science Associations (FELASA) guidelines. The mice were free of all viral, bacterial, and parasitic pathogens listed in the FELASA recommendations, except for Helicobacter species. (Jirkof et al., 2013).
