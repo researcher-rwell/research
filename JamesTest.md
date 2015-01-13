@@ -10,8 +10,6 @@ KEY RESULTS: We have demonstrated that sakuranetin treatment attenuated airway h
 
 CONCLUSIONS AND IMPLICATIONS: These results highlighted the importance of counteracting oxidative stress by flavonoids in this asthma model and suggest sakuranetin as a potential candidate for studies of treatment of asthma. (Toledo et al., 2013).
 
-*INTRODUCTION *
-
 # Background:
 
 The increasing prevalence of type 2 diabetes is cause for concern, and has spurred efforts to identify novel peptides with valuable properties for diabetes treatment [1]. Type 2 diabetes is characterized by both resistance of target tissues to the actions of insulin and impaired β-cell function [2], [3]. Studies in genetically modified mice have suggested that defects in insulin/IGF signaling in the β-cell contribute to β- cell failure [4], thereby establishing a causal link between insulin resistance and impaired β-cell function. One attractive scenario is that insulin and IGFs exert their effects through a common effector, acting on DNA transcription in β-cells [5]. Forkhead box (Fox)-containing transcription factors of the O sub-class (FoxO) are prominent transcriptional effectors of insulin and IGF signaling in β-cells [6]. FoxO1 inhibits β-cell proliferation in insulin-resistant states [7] as well as in response to growth factors [8], protects β-cells against hyperglycemia-induced oxidative stress [9], and controls energy metabolism in β-cells [10]. In view of the role of FoxO1 in β-cell compensation to insulin resistance [11], we reasoned that investigation of FoxO1 target genes could reveal mechanisms underlying β-cell failure in the context of insulin resistance. To this end, we carried out gene profiling analyses in INS832/13 cells [10]. Our genomic analysis led to the identification of nephroblastoma overexpressed gene (Nov, also known as Ccn3) as a novel FoxO1 target. The role of Ccn3 in β-cells has never been explored. (Paradis et al., 2013)
@@ -21,8 +19,6 @@ For this purpose, we selected a pilocarpine model of epilepsy that is characteri
 # Objectives:
 
 Therefore, the objectives of this study were to determine whether URB597, a selective inhibitor of FAAH, increases retinal ganglion cell (RGC) survival in an axotomy model of optic nerve injury, and to determine the contribution of CB1 and CB2 to the survival-promoting effects of URB597 in the retina. (Slusar et al., 2013)
-
-*METHODS *
 
 # Ethical statement:
 
@@ -105,8 +101,6 @@ Fig. 2 Comparison of body weight of C57BL/6NTac male mice following varying dura
 In four surviving animals, lower extremity ulcers developed but were effectively treated with local standard triple antibiotic ointment (bacitracin, neomycin, and Polymyxin B) and cohesive bandages. (Van Gorp et al., 2013).
 
 As mortality with multiple surgeries was significantly higher in aged animals than young animals, aged animals only underwent a single surgery in which RGCs were labelled either from the SC (aged control nonaxotomized animals) or from the optic nerve stump at the time of axotomy. (Slusar et al., 2013).
-
-*DISCUSSION*
 
 # Interpretation/scientific implications: 
 
