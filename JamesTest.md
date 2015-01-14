@@ -46,7 +46,7 @@ The subcutaneous (s.c.) route may be used for agents to prolong duration of acti
 
 Male C57BL/6J mice (25.3 ± 1.4 g), aged 8–12 weeks, were included (n = 40). (Van Dijk et al., 2013). Twenty-two male Sprague–Dawley rats (Rattus norvegicus; Harlan Laboratories, Indianapolis, IN, USA) were obtained and acclimatized for at least 48 h. Vendor health reports indicated that the rats were free of known viral, bacterial and parasitic pathogens. (Katayama et al., 2013).
 
-# Housing and Husbandry:
+Housing and Husbandry:
 
 We kept the mice bah fdoabibqvfhlbqhjl
 
