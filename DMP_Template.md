@@ -6,4 +6,4 @@ It is expected that you use a tool to create the Data Management Plan and either
 
 -   Paste the contents of the generated file into this file
 
-For Data Management Plan generation it is expected to use a tool such as DMP Online, which is available here <https://dmponline.dcc.ac.uk/>
+For Data Management Plan generation it is expected to use a tool such as DMPonline, which is available here: <https://dmponline.dcc.ac.uk/>
