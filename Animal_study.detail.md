@@ -4,7 +4,7 @@ Here is the metadata associated with your study. It’s a mixture of information
 
 Here’s the information we need from you. It will help us make sure we give you the most appropriate user experience. The information you provide will be read by a machine, so just keep it simple.
 
-| \#\# Project Nickname
+\#\# Project Nickname
 
 \#\# | A one word acronym for the study – we’ll use this to name the files and to generate an ID | |-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | \#\# Sample population
 
@@ -18,13 +18,10 @@ Here’s the information we need from you. It will help us make sure we give you
 
 Most of this information has been provided by your funder. We’ve generated your project ID automatically, based on the nickname you’ve supplied above.
 
-| \#\# Project\_Name
+\#\# Project\_Name
 
 \#\# | This will be the name originally given in the funding application, and should be the same in the DMP. | |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------| | \#\# Project ID | This should be made up of useful info. The WHO wants the registry name followed by a unique iD. So maybe we could use:
 
                          RW\_ProjectKickname\_Number                                                                                                                     |
 
-\#\# Primary Sponsor \#\# | Funding institution – this will be the one that sets up the account |
-\#\# Grant reference | I guess that when a funder sets up an account for their grant holder we would get this info from them and then automatically populate it here. |
-\#\# ORCID ID of PI \#\# | Auto-populated by funder |
-\#\# PI Contact details \#\# | Auto-populated from ORCID API |
+\#\# Primary Sponsor \#\# | Funding institution – this will be the one that sets up the account | \#\# Grant reference | I guess that when a funder sets up an account for their grant holder we would get this info from them and then automatically populate it here. | \#\# ORCID ID of PI \#\# | Auto-populated by funder | \#\# PI Contact details \#\# | Auto-populated from ORCID API |
