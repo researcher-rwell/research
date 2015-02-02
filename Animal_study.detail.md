@@ -6,8 +6,8 @@ Here is the metadata associated with your study. It’s a mixture of information
 
 Here’s the information we need from you. It will help us make sure we give you the most appropriate user experience. The information you provide will be read by a machine, so just keep it simple:
 
-| Item                  | Description                                                                         |
 |-----------------------|-------------------------------------------------------------------------------------|
+| Item                  | Description                                                                         |
 | Project Nickname      | One word acronym for the study.                                                     |
 | Sample Population     | E.g. students/patients/people/mice/stem cells/None (e.g. for a computational study) |
 | Methodologies         | E.g. fMRI, Immunohistochemistry                                                     |
@@ -18,8 +18,8 @@ Here’s the information we need from you. It will help us make sure we give you
 
 The following information has already been provided or generated automatically:
 
-| Item               | Description                                                                                           |
 |--------------------|-------------------------------------------------------------------------------------------------------|
+| Item               | Description                                                                                           |
 | Project Name       | This will be the name originally given in the funding application, and should be the same in the DMP. |
 | Project ID         | RW\_\<Project Nickname\>\_\<unique ID\>                                                               |
 | Primary Sponsor    | Funding institution                                                                                   |
