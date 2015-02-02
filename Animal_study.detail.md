@@ -4,7 +4,7 @@ Here is the metadata associated with your study. It’s a mixture of information
 
 # Required Information
 
-Here’s the information we need from you. It will help us make sure we give you the most appropriate user experience. The information you provide will be read bya machine, so just keep it simple:
+Here’s the information we need from you. It will help us make sure we give you the most appropriate user experience. The information you provide will be read by a machine, so just keep it simple:
 
 | Item                  | Description                                                                         |
 |-----------------------|-------------------------------------------------------------------------------------|
