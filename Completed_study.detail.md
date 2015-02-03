@@ -15,7 +15,7 @@ Here’s the information we need from you. It will help us make sure we give you
 | Project Nickname      | One word acronym for the study.                                                     |
 | Sample Population     | E.g. students/patients/people/mice/stem cells/None (e.g. for a computational study) |
 | Methodologies         | E.g. fMRI, Immunohistochemistry                                                     |
-| Data Collection Start | 3/3/15                                                                              |
+| Data Collection Start | 3/3/2015                                                                            |
 | Data DOI              | To be completed when data has been deposited.                                       |
 
 # Information Held
