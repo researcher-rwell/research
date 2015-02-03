@@ -1,3 +1,7 @@
+---
+title: Data Management Plan
+...
+
 # Information
 
 It is expected that you use a tool to create the Data Management Plan and either:
