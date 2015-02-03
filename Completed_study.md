@@ -32,7 +32,7 @@ Male C57BL/6J mice (25.3 ± 1.4 g), aged 8–12 weeks, were included (n = 40). (
 
 # Sample size:
 
-Twenty eight healthy rats were divided into four groups of seven each. Animals of group I received distilled water (0.1 ml/day) and served as control, whereas group II animals received only ISO at 100 mg/kg. Animals of group III and IV were treated with test alkaloid at pre-standardized dose of 40 mg/kg (p.o.) daily for 7 days. (Panda et al., 2013).
+Twenty eight healthy rats were divided into four groups of seven each. Animals of group I received distilled water (0.1 ml/day) and served as control, whereas group II animals received only ISO at 100 mg/kg. Animals of group III and IV were treated with test alkaloid at pre-standardized dose of 40 mg/kg (p.o.) daily for 7 days. Power calculation is (Panda et al., 2013).
 
 # Allocating animals to experimental groups:
 
